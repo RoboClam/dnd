@@ -1,0 +1,63 @@
+1;  +2; Divine Sense, Lay on Hands; 0; 0; 0; 0; 0;
+2;  +2; Fighting Style, Spellcasting, Divine Smite; 2; 0; 0; 0; 0;
+3;  +2; Divine Health, Sacred Oath; 3; 0; 0; 0; 0;
+4;  +2; Ability Score Improvement; 3; 0; 0; 0; 0;
+5;  +3; Extra Attack; 4; 2; 0; 0; 0;
+6;  +3; Aura of Protection; 4; 2; 0; 0; 0;
+7;  +3; Sacred Oath feature; 4; 3; 0; 0; 0;
+8;  +3; Ability Score Improvement; 4; 3; 0; 0; 0;
+9;  +4; (none); 4; 3; 2; 0; 0;
+10; +4; Aura of Courage; 4; 3; 2; 0; 0;
+11; +4; Improved Divine Smite; 4; 3; 3; 0; 0;
+12; +4; Ability Score Improvement; 4; 3; 3; 0; 0;
+13; +5; (none); 4; 3; 3; 1;
+14; +5; Cleansing Touch; 4; 3; 3; 1; 0;
+15; +5; Sacred Oath Feature; 4; 3; 3; 2; 0;
+16; +5; Ability Score Improvement; 4; 3; 3; 2; 0;
+17; +6; (none); 4; 3; 3; 3; 1; 
+18; +6; Aura Improvements; 4; 3; 3; 3; 1;
+19; +6; Ability Score Improvement; 4; 3; 3; 3; 2; 
+20; +6; Sacred Oath Feature; 4; 3; 3; 3; 2; 
+
+
+Divine Sense = 	As an Action, 
+				until the end of my next turn, 
+				I know the location of any celestial, field, or undead 
+				within 60 feet of me that is not behind total cover. 
+				I know the type of being but not the identity. 
+				I can also detect the presence of any place or object 
+				that has been consecrated or desecrated 
+				as well with the hallow spell. 
+				I can use this feature a number of times equal to 1 + Charisma modifier. 
+				When I complete a long rest, I regain all uses.
+				
+Lay on Hands = 	I have a pool of healing power that replenishes when I take a long rest.
+				I can restore a total number of hit points equal to my paladin level * 5.
+				As an Action, I can spend 5 hit points from my pool to cure the target
+				of one disease or neutralize one poison. 
+				I can cure multiple diseases and poisons in a single use of Lay on Hands,
+				expending hit points seperately for each one. 
+
+Spell List = 	Preparing a new list of paladin spells requires time spent in prayer and meditation.
+				At least 1 minute per spell level for each spell on my list.
+				Choose a number of paladin spells equal to my 
+				Charisma modifier + half of my paladin level, rounded down
+				
+Divine Smite = 	When I hit a creature with a melee attack, I can expend one paladin spell slot 
+				to deal radiant damage to the target, in addition to the weapon's damage.
+				The extra damage is 2d8 for a 1st level spell slot, 
+				plus 1d8 for each spell level higher than 1st, to a maximum of 5d8.
+				The damage increases by 1d8 if the target is an undead or a fiend. 
+				(Improved = Whenever I hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.)
+
+Aura of Protection = 	Whenever a friendly creature within 10 feet or I have to make a saving throw,
+						we gain a bonus to the saving throw equal to your Charisma modifier.
+						(Improved = range extends to 30 feet.)
+
+Cleansing Touch = 	I can use my action to end one spell on myself or one willing creature that I touch.
+					I can use this feature a number of times equal to my Charisma Modifier. I regain uses after long rest.
+					
+Aura of Courage = Friendly creatures and I within 10 feet can't be frightened. (Improved = range extends to 30 feet.)				
+Divine Health = immune to disease
+Spell Save DC = 8 + my proficiency bonus + my Charisma modifier
+Spell Attack Modifier = my proficiency bonus + my Charisma modifier
