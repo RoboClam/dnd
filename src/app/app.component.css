@@ -1,0 +1,13 @@
+.ability-score {
+  border: 1px solid black;
+  border-radius: 25%;
+  display: inline;
+}
+
+.ability-scores {
+  text-align: center;
+}
+
+.ability-score-modifier {
+  display: inline;
+}
